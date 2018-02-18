@@ -17,7 +17,7 @@ Contact me:
 email: s-ahmed.saleh@zewailcity.edu.eg 
 List of all my codes: https://gumroad.com/ahmed_s
 
-=================================================== 
+
 Hire me directly on freelancer: 
 https://www.freelancer.com/u/AhmedSobhiSaleh 
-===================================================
+
