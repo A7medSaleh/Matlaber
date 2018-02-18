@@ -1,0 +1,2 @@
+# Matlaber
+I am an electrical engineer and a Matlab code developer I am also very good in designing and simulating control systems on Simulink. I have finished many project before. I love sharing my codes with the world.   on this channel I will upload my works and codes. hope it is useful to the world and I know it is much fun for me but most importantly it forms great deal in my career.  If you want specific job done you can hire me directly on freelancer: https://www.freelancer.com/u/AhmedSobhiSaleh
