@@ -2,7 +2,7 @@
 
  
 Get the code from here: 
-https://gum.co/Vozjh 
+https://gum.co/GYKbH
 
 Watch the code from here: 
 https://www.youtube.com/watch?v=XKgxu2EVL9o&t=2s
@@ -15,7 +15,7 @@ The code is implemented in a GUI (user friendly) to facilitate using the program
 
 Contact me: 
 email: s-ahmed.saleh@zewailcity.edu.eg 
-List of all my codes: https://gumroad.com/ahmed_s
+List of all my codes: https://gumroad.com/ahmedsaleh
 
 
 Hire me directly on freelancer: 
